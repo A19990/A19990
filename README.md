@@ -16,18 +16,21 @@
 - **Data Engineering**: Build and maintain robust data pipelines that ensure reliable and timely data flow across systems.
 - **Cloud Migrations**: Lead migrations from legacy data systems to modern, scalable platforms to improve performance and accessibility.
 - **ETL & Monitoring**: Orchestrate data integration and transformation processes while continuously monitoring data quality and pipeline health.
-- **Business Intelligencegit**: Develop insightful reports and dashboards that empower stakeholders to make data-driven decisions with confidence.
+- **Business Intelligence**: Develop insightful reports and dashboards that empower stakeholders to make data-driven decisions with confidence.
 
 ---
 
 ### 🧰 Technical Expertise:
 
-- **Languages & Querying**: SQL (Snowflake, Oracle, SQL Server, DB2, MariaDB, MongoDB), Python (Pandas, Scikit-learn, Keras, PyTorch).
-- **Machine Learning**: NLP, Forecasting, Classification, Clustering, Deep Learning.
-- **ETL & Orchestration**: Azure Data Factory, Informatica, Oracle Data Integrator, Control-M, IBM Tivoli.
-- **Cloud & DevOps**: Snowflake, Microsoft Azure (Blob Storage, Data Studio, DevOps).
-- **Visualization**: Power BI, Qlik, Tableau
-- **CI/CD & Version Control**: GitLab, Azure DevOps, GitHub.
+- **Languages & Data Analysis**: Python (Jupyter, Pandas, Scikit-learn, Plotly, Matplotlib, Seaborn, Keras, PyTorch), Matlab, PySpark, SQL (MariaDB, DB2, SQL Server, Oracle, Snowflake), NoSQL (MongoDB), PL/SQL.  
+- **Machine Learning & AI**: Regression, Classification, Forecasting, Sentiment Analysis, Text Classification, Deep Learning.  
+- **ETL & Data Engineering**: Azure Data Factory, Informatica, Oracle Data Integrator.  
+- **Pipeline Orchestration & Automation**: Control-M, IBM Tivoli.  
+- **Cloud Platforms**: Microsoft Azure, Google Cloud Platform.  
+- **Data Quality & Monitoring**: DataGaps, Oracle EDQ, Splunk.  
+- **Visualization & Reporting**: Power BI, Qlik, Tableau.  
+- **Database & Tools**: DBeaver, Visual Studio Code, Postman (API Testing).  
+- **CI/CD & Project Management**: GitLab, Azure DevOps, JIRA, Confluence, ServiceNow.
 
 ---
 
