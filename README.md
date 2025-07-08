@@ -7,7 +7,7 @@
 
 ### 👋 Hi, I'm Alberto!
 
-💼 **Data Engineer** with international experience (Spain & US) in large-scale data migration, data quality validation, and orchestration projects across insurance, banking, and retail sectors. I build cloud-native, scalable solutions that turn raw data into reliable insights.
+💼 **Data Engineer** with 3+ years of international experience (Spain & US) in large-scale data migration, data quality validation, and orchestration projects across insurance, banking, and retail sectors. I build cloud-native, scalable solutions that turn raw data into reliable insights.
 
 ---
 
