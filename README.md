@@ -7,7 +7,8 @@
 
 ### 👋 Hi, I'm Alberto!
 
-💼 **Data Engineer** with 3+ years of international experience (Spain & US) in large-scale data migration, data quality validation, and orchestration projects across insurance, banking, and retail sectors. I build cloud-native, scalable solutions that turn raw data into reliable insights.
+💼 **Data Engineer** with a Master’s in Data Science & Big Data and 3+ years of experience building scalable data pipelines for global clients in banking, retail, and insurance. Skilled in Azure, Snowflake, Python, and SQL with a focus on data quality, automation, and GDPR compliance. Collaborative and adaptable, eager to contribute to innovative tech ecosystems
+
 
 ---
 
@@ -22,15 +23,15 @@
 
 ### 🧰 Technical Expertise:
 
-- **Languages & Data Analysis**: Python (Jupyter, Pandas, Scikit-learn, Plotly, Matplotlib, Seaborn, Keras, PyTorch), Matlab, PySpark, SQL (MariaDB, DB2, SQL Server, Oracle, Snowflake), NoSQL (MongoDB), PL/SQL.  
-- **Machine Learning & AI**: Regression, Classification, Forecasting, Sentiment Analysis, Text Classification, Deep Learning.  
-- **ETL & Data Engineering**: Azure Data Factory, Informatica, Oracle Data Integrator.  
-- **Pipeline Orchestration & Automation**: Control-M, IBM Tivoli.  
-- **Cloud Platforms**: Microsoft Azure, Google Cloud Platform.  
-- **Data Quality & Monitoring**: DataGaps, Oracle EDQ, Splunk.  
-- **Visualization & Reporting**: Power BI, Qlik, Tableau.  
-- **Database & Tools**: DBeaver, Visual Studio Code, Postman (API Testing).  
-- **CI/CD & Project Management**: GitLab, Azure DevOps, JIRA, Confluence, ServiceNow.
+- **Cloud**: Azure, Google Cloud Platform, foundational AWS knowledge
+- **Programming & Data Analysis**: Python (Jupyter, Pandas, Scikit-learn, Plotly, Matplotlib, Seaborn, Keras, PyTorch), PySpark, Matlab, SQL (MariaDB, DB2, SQL Server, Oracle Database, Snowflake), NoSQL (MongoDB), PL/SQL
+- **Data Engineering & ETL**: Azure Data Factory, Informatica, Oracle Data Integrator
+- **Pipeline Orchestration & Automation**: Control-M, IBM Tivoli
+- **Data Quality**: DataGaps, Oracle EDQ, Splunk
+- **Data Visualization & Reporting**: Power BI, Tableau, Qlik
+- **Machine Learning**: Regression, Classification, Forecasting, Sentiment Analysis, Text Classification, Deep Learning
+- **Database Management & Tools**: DBeaver, Visual Studio Code, Postman (API testing)
+- **Project Management & CI/CD**: Azure DevOps, JIRA, Confluence, ServiceNow, GitHub
 
 ---
 
